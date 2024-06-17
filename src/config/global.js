@@ -153,7 +153,7 @@ export default {
     {
       termino: '<i>Firmware</i>',
       significado:
-        'conjunto de instrucciones de un programa informático que se encuentra registrado en una memoria ROM, flash o similar. Estas instrucciones fijan la lógica primaria que ejerce el control de los circuitos de alguna clase de artefacto.',
+        'conjunto de instrucciones de un programa informático que se encuentra registrado en una memoria ROM, <i>flash</i> o similar. Estas instrucciones fijan la lógica primaria que ejerce el control de los circuitos de alguna clase de artefacto.',
     },
     {
       termino: 'RAM',
@@ -163,7 +163,7 @@ export default {
     {
       termino: 'Tarjeta gráfica',
       significado:
-        'la tarjeta gráfica o tarjeta de video, es un componente que viene integrado en la placa base del PC o se instala a parte para ampliar sus capacidades. Concretamente, esta tarjeta está dedicada al procesamiento de datos relacionados con el video y las imágenes que se están reproduciendo en el ordenador.',
+        'la tarjeta gráfica o tarjeta de video, es un componente que viene integrado en la placa base del PC o se instala aparte para ampliar sus capacidades. Concretamente, esta tarjeta está dedicada al procesamiento de datos relacionados con el video y las imágenes que se están reproduciendo en el ordenador.',
     },
     {
       termino: 'TPM',
@@ -258,11 +258,6 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',

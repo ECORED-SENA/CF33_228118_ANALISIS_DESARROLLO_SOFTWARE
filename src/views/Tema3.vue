@@ -18,7 +18,7 @@
       .col-lg-5.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/56.png', alt='')        
       .col-lg-7.my-3 
-        p(data-aos="fade-down") En el caso de los usuarios, las pruebas van dadas por las necesidades y el contexto que representa a cada uno de los clientes, en otras palabras, la misma prueba no puede servir para todos los escenarios, porque puede ser que una prueba para un software específico sea la adecuada, pero en otro puede llegar a ser perjudicial. En el caso puntual de los clientes, se debe hacer una prueba de funcionamiento y rendimiento en el sitio, bajo las condiciones y entorno de la empresa, con las funciones y datos reales. Esta prueba debe ser ejecutada y analizada por las dos partes, se puede hacer en una sola jornada o si el cliente lo desea se puede hacer dos días o hasta en una semana, solo así, el cliente sentirá la seguridad de firmar el acta de entrega a satisfacción. 
+        p(data-aos="fade-down") En el caso de los usuarios, las pruebas van dadas por las necesidades y el contexto que representa a cada uno de los clientes, en otras palabras, la misma prueba no puede servir para todos los escenarios, porque puede ser que una prueba para un #[i software] específico sea la adecuada, pero en otro puede llegar a ser perjudicial. En el caso puntual de los clientes, se debe hacer una prueba de funcionamiento y rendimiento en el sitio, bajo las condiciones y entorno de la empresa, con las funciones y datos reales. Esta prueba debe ser ejecutada y analizada por las dos partes, se puede hacer en una sola jornada o si el cliente lo desea se puede hacer dos días o hasta en una semana, solo así, el cliente sentirá la seguridad de firmar el acta de entrega a satisfacción. 
         img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.png', alt='') 
 
     .row.bg17.align-items-center
@@ -29,18 +29,18 @@
               .col-lg-auto.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/59.png', alt='')       
               .col.my-3  
-                p(data-aos="fade-down").mb-0 El acta de entrega es el documento final, que se elabora con el fin de entregar parcial o totalmente un producto de software, este documento es presentado al cliente, el cual debe recibir a satisfacción el producto para finalizar con el proceso, por lo general este documento se firma después de realizar las pruebas de la aplicación. (UGUR, 2009) 
+                p(data-aos="fade-down").mb-0 El acta de entrega es el documento final, que se elabora con el fin de entregar parcial o totalmente un producto de #[i software], este documento es presentado al cliente, el cual debe recibir a satisfacción el producto para finalizar con el proceso, por lo general este documento se firma después de realizar las pruebas de la aplicación. (UGUR, 2009) 
 
-          h5(data-aos="fade-down") Por lo general, los modelos de acta de entrega pueden variar según las empresas productoras de software, pero generalmente llevan la siguiente información:
+          h5(data-aos="fade-down") Por lo general, los modelos de acta de entrega pueden variar según las empresas productoras de #[i software], pero generalmente llevan la siguiente información:
           .row.justify-content-center
               .col-lg-10            
                 .row.justify-content-center
                   .col-lg-7.my-3 
-                    p(data-aos="fade-down") Por lo general estos videos deben llevar:   
+                    p(data-aos="fade-down") Por lo general, estos videos deben llevar:   
                     ul.lista-ul--color.fa-ul.mb-0
                       li 
                         i.fas.fa-code.color1
-                        | Una portada con los logos e información de la empresa o desarrollador de la solución de software. 
+                        span Una portada con los logos e información de la empresa o desarrollador de la solución de #[i software]. 
 
                       li 
                         i.fas.fa-code.color1

@@ -10,28 +10,28 @@
       .col-lg-12.col-12.px-lg-5.p-5.pt-0 
         .row.justify-content-center.align-items-center          
           .col-lg-12 
-            p(data-aos="fade-down") El eje central de este apartado es indicar cómo se debe realizar el mantenimiento del software de forma adecuada, de tal manera que la calidad del aplicativo no se deteriore como resultado del uso, para ello, debemos enfocarnos en la siguiente pregunta:  
+            p(data-aos="fade-down") El eje central de este apartado es indicar cómo se debe realizar el mantenimiento del #[i software] de forma adecuada, de tal manera que la calidad del aplicativo no se deteriore como resultado del uso, para ello, debemos enfocarnos en la siguiente pregunta:  
             .row.justify-content-center.mb-4 
               .col-lg-4.my-3(data-aos="fade-down")
                 .bg3.p-4.h-100.j
-                  h5(data-aos="fade-down") ¿Cómo debe mantenerse el software para preservar su fiabilidad?  
+                  h5(data-aos="fade-down") ¿Cómo debe mantenerse el #[i software] para preservar su fiabilidad?  
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='')                       
               .col-lg-8.my-3(data-aos="fade-left")
                 .bloque-texto-d.color-primario.p-4(data-aos="fade-left")
                   .bloque-texto-d__texto
                     i.fas.fa-quote-left
-                    p.mb-0 #[em De acuerdo a Ruiz & Polo (2007):]  Todas las soluciones de software muestran mensajes para dar retroalimentación sobre el estado del sistema y para indicar si hay problemas, por lo general los mensajes de error son visuales “mensajes en la pantalla” o sonidos de alerta, en este apartado hay que proporcionar de forma detallada el tipo de error que se presenta e indicar una solución muy puntal a este problema, se debe tener en cuenta que estos tipos de mensajes también se pueden incluir en la guía de administrador de usuario, aunque es mucho mejor repetir la información importante en varios lugares, porque normalmente no se tiene control sobre la forma en que el usuario utiliza los manuales técnicos. 
+                    p.mb-0 #[em De acuerdo a Ruiz & Polo (2007):]  Todas las soluciones de #[i software] muestran mensajes para dar retroalimentación sobre el estado del sistema y para indicar si hay problemas, por lo general los mensajes de error son visuales “mensajes en la pantalla” o sonidos de alerta, en este apartado hay que proporcionar de forma detallada el tipo de error que se presenta e indicar una solución muy puntal a este problema, se debe tener en cuenta que estos tipos de mensajes también se pueden incluir en la guía de administrador de usuario, aunque es mucho mejor repetir la información importante en varios lugares, porque normalmente no se tiene control sobre la forma en que el usuario utiliza los manuales técnicos. 
                     i.fas.fa-quote-right
                   .bloque-texto-d__autor 
                     .h5.mb-0 Ruiz & Polo (2007):      
  
 
-            p(data-aos="fade-down") Por ejemplo, puede suponer que un usuario consultará la guía de instalación para entender el significado de los códigos de error del sistema, aunque algunas veces no lo haga o la pasa por alto, porque la información importante está en un solo apartado del manual, por lo cual el usuario termina llamando al centro de servicio para resolver un problema simple, en lugar de consultar la guía de mantenimiento. Es muy importante que en el manual de mantenimiento del software se ilustre con imágenes o videos de casos reales y también se pueden hacer foros o grupos en línea para resolver problemas recurrentes y así brindar una solución puntual.    
+            p(data-aos="fade-down") Por ejemplo, puede suponer que un usuario consultará la guía de instalación para entender el significado de los códigos de error del sistema, aunque algunas veces no lo haga o la pasa por alto, porque la información importante está en un solo apartado del manual, por lo cual el usuario termina llamando al centro de servicio para resolver un problema simple, en lugar de consultar la guía de mantenimiento. Es muy importante que en el manual de mantenimiento del #[i software] se ilustre con imágenes o videos de casos reales y también se pueden hacer foros o grupos en línea para resolver problemas recurrentes y así brindar una solución puntual.    
 
             .row.justify-content-center.mb-4
               .col-lg-7.my-3
                 .bgw.p-4.brad.h-100 
-                  p(data-aos="fade-down") #[b Call center:] es un centro de trabajo en el cual se realizan atención al usuario por medio de llamadas telefónicas, se gestionan datos, contactos y soluciones a problemas frecuentes de software. Hoy en día, call centers y contact centers son una de las opciones más ágiles de las grandes empresas al momento de dar soporte a los productos; por lo general, este tipo de mantenimiento se hace en compañía de un programa o aplicación de escritorio remoto, con los cuales podemos dar asistencia técnica remota como si el programador estuviera en el lugar en el que lo necesitan. 
+                  p(data-aos="fade-down") #[i #[b Call center:]] es un centro de trabajo en el cual se realizan atención al usuario por medio de llamadas telefónicas, se gestionan datos, contactos y soluciones a problemas frecuentes de #[i software]. Hoy en día, #[i call centers] y #[i contact centers] son una de las opciones más ágiles de las grandes empresas al momento de dar soporte a los productos; por lo general, este tipo de mantenimiento se hace en compañía de un programa o aplicación de escritorio remoto, con los cuales podemos dar asistencia técnica remota como si el programador estuviera en el lugar en el que lo necesitan. 
                   img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.png', alt='')      
 
               .col-lg-5.my-3 

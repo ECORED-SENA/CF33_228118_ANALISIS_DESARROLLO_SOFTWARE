@@ -28,7 +28,7 @@
               SlyderA(tipo="b")
                 .row.justify-content-center.p-2
                   .col-lg-6.my-3.col-md-auto
-                    h4.t2 Los instructores deben conocer muy bien el software 
+                    h4.t2 Los instructores deben conocer muy bien el #[i software] 
                     p Los formadores deben ser expertos en el manejo del programa, esto transmite confianza y entusiasmo a los usuarios de la capacitación. 
 
                     p Al diseñar la capacitación, debe contar con personal profesional en la materia, los cuales tengan facilidad de expresión y buen manejo del público.   
@@ -43,7 +43,7 @@
                 .row.justify-content-center.p-2
                   .col-lg-6.my-3.col-md-auto
                     h4.t2 Hacer de la formación una prioridad  
-                    p Hay que establecer acuerdos con los jefes de personal o con los propietarios de las empresas, para establecer la capacitación de manera obligatoria, esto evita inconvenientes a futuro, como volver a agendar capacitaciones y problemas por el incorrecto manejo del software o la aplicación. 
+                    p Hay que establecer acuerdos con los jefes de personal o con los propietarios de las empresas, para establecer la capacitación de manera obligatoria, esto evita inconvenientes a futuro, como volver a agendar capacitaciones y problemas por el incorrecto manejo del #[i software] o la aplicación. 
                   .col-lg-5.my-3.mb-4.mb-md-0
                     img.img-a.img-t(src='@/assets/curso/temas/43.png', alt="")      
                 .row.justify-content-center.p-2
@@ -55,7 +55,7 @@
                 .row.justify-content-center.p-2
                   .col-lg-6.my-3.col-md-auto
                     h4.t2 Elegir un formato adecuado para la capacitación  
-                    p En la mayoría de casos las capacitaciones o conferencias son de manera magistral y de poco tiempo, lo cual no es efectivo para ayudar a los usuarios a desarrollar sus nuevas habilidades y que los apliquen con eficacia, hay que ser creativos, didácticos y utilizar pausas activas para evitar el desgaste de los usuarios, buscando la aplicabilidad del aprendizaje.  
+                    p En la mayoría de casos, las capacitaciones o conferencias son de manera magistral y de poco tiempo, lo cual no es efectivo para ayudar a los usuarios a desarrollar sus nuevas habilidades y que las apliquen con eficacia. Hay que ser creativos, didácticos y utilizar pausas activas para evitar el desgaste de los usuarios, buscando la aplicabilidad del aprendizaje.  
                   .col-lg-5.my-3.mb-4.mb-md-0
                     img.img-a.img-t(src='@/assets/curso/temas/45.png', alt="") 
 
@@ -94,7 +94,7 @@
                 .tarjeta.bgcard.ts.h-100.p-4
                   img.img-t.mb-3(src='@/assets/curso/temas/51.png' alt='')
                   .text-white  
-                    p.mb-0 Se puede enviar información por correo electrónico o links de descarga, para que los usuarios la revisen con antelación y se pueda avanzar en la etapa de preguntas.   
+                    p.mb-0 Se puede enviar información por correo electrónico o #[i links] de descarga, para que los usuarios la revisen con antelación y se pueda avanzar en la etapa de preguntas.   
                 .tarjeta.bgcard.ts.h-100.p-4
                   img.img-t.mb-3(src='@/assets/curso/temas/52.png' alt='')
                   .text-white  
@@ -102,19 +102,19 @@
                 .tarjeta.bgcard.ts.h-100.p-4
                   img.img-t.mb-3(src='@/assets/curso/temas/53.png' alt='')
                   .text-white  
-                    p.mb-0 Acordar una fecha extra para mirar posibles problemas en el manejo de la solución de software.   
+                    p.mb-0 Acordar una fecha extra para mirar posibles problemas en el manejo de la solución de #[i software].   
                                           
             Separador 
             #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
               h2 2.3 Videotutoriales 
 
-            p(data-aos="fade-down").mb-5 Existen muchos usuarios que pueden estar en trabajo remoto, comisión o por fuera de la ciudad, así que hay que asegurarse de diseñar la capacitación de manera virtual con excelentes formatos, por lo cual hay que asesorase de personal experto en el tema. Estos cursos o capacitaciones deben estar siempre actualizados, esto facilita que nuevos usuarios puedan revisar la información, logrando un autoaprendizaje, evitando en algunos casos agendar nuevas capacitaciones.  
+            p(data-aos="fade-down").mb-5 Existen muchos usuarios que pueden estar en trabajo remoto, comisión o por fuera de la ciudad, así que hay que asegurarse de diseñar la capacitación de manera virtual con excelentes formatos, por lo cual hay que asesorarse de personal experto en el tema. Estos cursos o capacitaciones deben estar siempre actualizados, esto facilita que nuevos usuarios puedan revisar la información, logrando un autoaprendizaje, evitando en algunos casos agendar nuevas capacitaciones.  
             .row.justify-content-center.mb-5
               .col-lg-8  
                 .bg9.px-4.brad   
                   .row.justify-content-center
                     .col-lg-7.my-3 
-                      p(data-aos="fade-down") Por lo general estos videos deben llevar:   
+                      p(data-aos="fade-down") Por lo general, estos videos deben llevar:   
                       ul.lista-ul--color.fa-ul.mb-0
                         li 
                           i.fas.fa-code.color1
