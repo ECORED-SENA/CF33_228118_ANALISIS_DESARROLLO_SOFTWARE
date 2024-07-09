@@ -31,7 +31,7 @@
               .col.my-3  
                 p(data-aos="fade-down").mb-0 El acta de entrega es el documento final, que se elabora con el fin de entregar parcial o totalmente un producto de #[i software], este documento es presentado al cliente, el cual debe recibir a satisfacción el producto para finalizar con el proceso, por lo general este documento se firma después de realizar las pruebas de la aplicación. (UGUR, 2009) 
 
-          h5(data-aos="fade-down") Por lo general, los modelos de acta de entrega pueden variar según las empresas productoras de #[i software], pero generalmente llevan la siguiente información:
+          h5(data-aos="fade-down") Los modelos de acta de entrega pueden variar según las empresas productoras de #[i software], pero generalmente llevan la siguiente información:
           .row.justify-content-center
               .col-lg-10            
                 .row.justify-content-center
